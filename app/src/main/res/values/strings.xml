@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">P2-LinearLayout</string>
+    <string name="name">Name:</string>
+    <string name="pass">Password:</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+
+
+
+
+    <string name="welcome">Welcome to Android!</string>
+    <string name="LText">Large Text</string>
+    <string name="butt1">Button 1</string>
+    <string name="butt2">Button 2</string>
 </resources>
